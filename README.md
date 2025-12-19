@@ -1,4 +1,4 @@
-
+<p> This is for personal use only
 <p>[FILE PATH] - config/create_better_villagers-common.toml</p>
 <p>#NOTE: You can change the text and URL to suit your needs.</p>
 <p>[welcome_message]<br>&nbsp; &nbsp; # Enable or disable the welcome message<br>&nbsp; &nbsp; enabled = true<br>&nbsp; &nbsp; # The message to be displayed when a player joins the game for the first time<br>&nbsp; &nbsp; text = "THANKS TO OUR SPONSORS, ZAP-HOSTING! Support Reggarf And Save BIG - USE CODE Reggarf-1047 FOR 20% OFF Your ORDER!"<br>&nbsp; &nbsp; # The URL to be opened when the player clicks the link<br>&nbsp; &nbsp; url = "<a href="https://legacy.curseforge.com/linkout?remoteUrl=https://zap-hosting.com/reggarf" target="_blank" rel="nofollow noopener">https://zap-hosting.com/reggarf</a>"</p>
