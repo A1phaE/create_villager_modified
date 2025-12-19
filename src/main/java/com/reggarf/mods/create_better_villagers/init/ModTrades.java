@@ -106,11 +106,12 @@ public class ModTrades {
         if (Create_better_villagers.CONFIG.common.ENABLE_MINER) {
             if (event.getType() == ModVillagers.MINER.value()) {
                 //LEVEL 1
-                event.getTrades().get(1).add(new BasicItemListing(new ItemStack(Items.EMERALD, 4), new ItemStack(Blocks.COBBLESTONE, 2), new ItemStack(Blocks.ANDESITE, 8), 10, 5, 0.07f));
-                event.getTrades().get(1).add(new BasicItemListing(new ItemStack(Items.EMERALD, 6), new ItemStack(Blocks.COBBLESTONE_SLAB, 3), new ItemStack(Blocks.ANDESITE_SLAB, 10), 10, 5, 0.07f));
+                event.getTrades().get(1).add(new BasicItemListing(new ItemStack(Items.EMERALD, 4), new ItemStack(Blocks.ANDESITE, 8), 10, 5, 0.07f));
+                event.getTrades().get(1).add(new BasicItemListing(new ItemStack(Items.EMERALD, 4), new ItemStack(Blocks.ANDESITE_SLAB, 8), 10, 5, 0.07f));
+                event.getTrades().get(1).add(new BasicItemListing(new ItemStack(Items.EMERALD, 3), new ItemStack(Blocks.EMERALD_BLOCK, 2), 10, 5, 0.07));
                 //LEVEL 2
-                event.getTrades().get(2).add(new BasicItemListing(new ItemStack(Items.EMERALD, 10), new ItemStack(Items.IRON_INGOT, 10), new ItemStack(AllItems.ZINC_INGOT.get(), 11), 10, 5, 0.05f));
-                event.getTrades().get(2).add(new BasicItemListing(new ItemStack(Items.EMERALD, 9), new ItemStack(Blocks.KELP, 6), new ItemStack(Items.DRIED_KELP, 20), 10, 5, 0.05f));
+                event.getTrades().get(2).add(new BasicItemListing(new ItemStack(Items.EMERALD, 10), new ItemStack(Items.IRON_INGOT, 24), new ItemStack(AllItems.ZINC_INGOT.get(), 11), 10, 5, 0.05f));
+                event.getTrades().get(2).add(new BasicItemListing(new ItemStack(Items.EMERALD, 9), new ItemStack(Blocks.KELP, 24), new ItemStack(Items.DRIED_KELP, 20), 10, 5, 0.05f));
                 //LEVEL 3
                 event.getTrades().get(3).add(new BasicItemListing(new ItemStack(Items.EMERALD, 8), new ItemStack(Items.STICK, 8), new ItemStack(Blocks.TORCH, 20), 10, 5, 0.07f));
                 event.getTrades().get(3).add(new BasicItemListing(new ItemStack(Items.EMERALD, 9), new ItemStack(Items.RAW_IRON, 9), new ItemStack(Blocks.IRON_BLOCK, 2), 10, 5, 0.05f));
