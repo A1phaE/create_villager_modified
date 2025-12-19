@@ -108,7 +108,7 @@ public class ModTrades {
                 //LEVEL 1
                 event.getTrades().get(1).add(new BasicItemListing(new ItemStack(Items.EMERALD, 4), new ItemStack(Blocks.ANDESITE, 8), 10, 5, 0.07f));
                 event.getTrades().get(1).add(new BasicItemListing(new ItemStack(Items.EMERALD, 4), new ItemStack(Blocks.ANDESITE_SLAB, 8), 10, 5, 0.07f));
-                event.getTrades().get(1).add(new BasicItemListing(new ItemStack(Items.EMERALD, 3), new ItemStack(Blocks.EMERALD_BLOCK, 2), 10, 5, 0.07));
+                event.getTrades().get(1).add(new BasicItemListing(new ItemStack(Items.EMERALD, 3), new ItemStack(Blocks.EMERALD_BLOCK, 2), 10, 5, 0.07f));
                 //LEVEL 2
                 event.getTrades().get(2).add(new BasicItemListing(new ItemStack(Items.EMERALD, 10), new ItemStack(Items.IRON_INGOT, 24), new ItemStack(AllItems.ZINC_INGOT.get(), 11), 10, 5, 0.05f));
                 event.getTrades().get(2).add(new BasicItemListing(new ItemStack(Items.EMERALD, 9), new ItemStack(Blocks.KELP, 24), new ItemStack(Items.DRIED_KELP, 20), 10, 5, 0.05f));
