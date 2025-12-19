@@ -1,12 +1,4 @@
-<h1 style="text-align: center;"><a style="background-color: rgb(13, 13, 13); font-family: Lato, 'Segoe UI', sans-serif; font-size: 16px; font-weight: 400; color: #e5e5e5;" href="https://zap-hosting.com/reggarf" target="_blank" rel="nofollow noopener"><strong><img src="https://media.forgecdn.net/attachments/description/1010929/description_2dbdedf7-e1a0-4bcd-86a6-01c26447af70.png"></strong></a></h1>
-<h1 style="text-align: center;"><strong>THANKS TO OUR SPONSORS</strong></h1>
-<p style="text-align: center;"><strong>THANKS TO ZAP-HOSTING! Use code Reggarf-1047 for 20% off any order!</strong></p>
-<p style="text-align: center;"><strong><a href="https://zap-hosting.com/reggarf" target="_blank" rel="nofollow noopener">https://zap-hosting.com/reggarf</a></strong></p>
-<p>&nbsp;</p>
-<p style="text-align: center;"><img src="https://media.forgecdn.net/attachments/description/null/description_9db24c00-7ce9-4c29-af58-e44c53e38af4.png" alt="" width="493" height="493"></p>
-<p style="text-align: center;"><strong><span style="color: #2dc26b;">Create: Better Villager</span> that adds a host of Create-mod village professions <img src="https://media.forgecdn.net/attachments/description/null/description_0120b73c-046a-4b20-b605-562d6bff7358.png" alt="" width="34" height="34"></strong></p>
-<h3 style="text-align: center;"><span style="color: #f1c40f;"><strong>MODPACK DEV MUST READ</strong></span></h3>
-<div class="spoiler">
+
 <p>[FILE PATH] - config/create_better_villagers-common.toml</p>
 <p>#NOTE: You can change the text and URL to suit your needs.</p>
 <p>[welcome_message]<br>&nbsp; &nbsp; # Enable or disable the welcome message<br>&nbsp; &nbsp; enabled = true<br>&nbsp; &nbsp; # The message to be displayed when a player joins the game for the first time<br>&nbsp; &nbsp; text = "THANKS TO OUR SPONSORS, ZAP-HOSTING! Support Reggarf And Save BIG - USE CODE Reggarf-1047 FOR 20% OFF Your ORDER!"<br>&nbsp; &nbsp; # The URL to be opened when the player clicks the link<br>&nbsp; &nbsp; url = "<a href="https://legacy.curseforge.com/linkout?remoteUrl=https://zap-hosting.com/reggarf" target="_blank" rel="nofollow noopener">https://zap-hosting.com/reggarf</a>"</p>
